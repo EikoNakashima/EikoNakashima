@@ -5,7 +5,7 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EikoNakashima&theme=onedar&rank=SS,S,AAA,AA,A,B,C
+[![trophy](https://github-profile-trophy.vercel.app/?username=EikoNakashima&theme=onedar&rank=S,AAA,AA,A,B,C
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
