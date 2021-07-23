@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_SECRET }}
         with:
-          USERNAME: ${{ github.repogitory_owner }}
+          USERNAME: EikoNakasima
