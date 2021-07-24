@@ -8,12 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate
+    name: generate-github-profile-summary-cards
 
     steps:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
+        env: # default use ${{ secrets.SUMMARY_CARD_SECRET }}, you should replace with your personal access token
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_SECRET }}
         with:
-          USERNAME: EikoNakasima
+          USERNAME: ${{ github.repository_owner }}
