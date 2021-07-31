@@ -15,7 +15,7 @@
 
 ![](https://zenn-badge.herokuapp.com/s/A-ichi/likes?style=flat-square)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Japan</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
